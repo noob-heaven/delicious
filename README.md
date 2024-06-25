@@ -3,4 +3,4 @@
 <hr>
 <p>윤강석 과제</p>
 <hr>
-<span>과제중</span>\n<strong>왜!</strong>\n<span>안되는걸까..</span>
+<span>과제중</span> <strong>왜!</strong> <span>안되는걸까..</span>
